@@ -1,0 +1,282 @@
+getRepo time for did:plc:r6akio77i3pqkgys47yiivag: 4733ms
+Read CAR time for did:plc:r6akio77i3pqkgys47yiivag: 5815ms
+Verify repo time for did:plc:r6akio77i3pqkgys47yiivag: 7677ms
+Processed 163308 records for did:plc:r6akio77i3pqkgys47yiivag in 694ms
+getRepo time for did:plc:ce6fuehfhulcdopg5yj5nyrf: 1414ms
+Read CAR time for did:plc:ce6fuehfhulcdopg5yj5nyrf: 198ms
+Verify repo time for did:plc:ce6fuehfhulcdopg5yj5nyrf: 220ms
+Processed 4452 records for did:plc:ce6fuehfhulcdopg5yj5nyrf in 25ms
+getRepo time for did:plc:6pucdwbxtitclryxknebkslo: 146ms
+Read CAR time for did:plc:6pucdwbxtitclryxknebkslo: 5ms
+Verify repo time for did:plc:6pucdwbxtitclryxknebkslo: 3ms
+Processed 24 records for did:plc:6pucdwbxtitclryxknebkslo in 0ms
+getRepo time for did:plc:emi6r6hfnk5hwocxvuhlk2fl: 168ms
+Read CAR time for did:plc:emi6r6hfnk5hwocxvuhlk2fl: 79ms
+Verify repo time for did:plc:emi6r6hfnk5hwocxvuhlk2fl: 55ms
+Processed 1171 records for did:plc:emi6r6hfnk5hwocxvuhlk2fl in 3ms
+getRepo time for did:plc:smhj7oe6nhrrgz2umogz72kl: 295ms
+Read CAR time for did:plc:smhj7oe6nhrrgz2umogz72kl: 234ms
+Verify repo time for did:plc:smhj7oe6nhrrgz2umogz72kl: 257ms
+Processed 5306 records for did:plc:smhj7oe6nhrrgz2umogz72kl in 20ms
+getRepo time for did:plc:hidclz2gor7x3qqrwufgpspi: 181ms
+Read CAR time for did:plc:hidclz2gor7x3qqrwufgpspi: 79ms
+Verify repo time for did:plc:hidclz2gor7x3qqrwufgpspi: 80ms
+Processed 1632 records for did:plc:hidclz2gor7x3qqrwufgpspi in 4ms
+getRepo time for did:plc:y7gglclacmud7ezblt2aywmw: 146ms
+Read CAR time for did:plc:y7gglclacmud7ezblt2aywmw: 14ms
+Verify repo time for did:plc:y7gglclacmud7ezblt2aywmw: 17ms
+Processed 264 records for did:plc:y7gglclacmud7ezblt2aywmw in 2ms
+getRepo time for did:plc:dhedzeyegexegnpslhncybpy: 144ms
+Read CAR time for did:plc:dhedzeyegexegnpslhncybpy: 19ms
+Verify repo time for did:plc:dhedzeyegexegnpslhncybpy: 14ms
+Processed 235 records for did:plc:dhedzeyegexegnpslhncybpy in 4ms
+getRepo time for did:plc:jn7bq3rucmuuzh6fvfsoonqp: 151ms
+Read CAR time for did:plc:jn7bq3rucmuuzh6fvfsoonqp: 18ms
+Verify repo time for did:plc:jn7bq3rucmuuzh6fvfsoonqp: 14ms
+Processed 210 records for did:plc:jn7bq3rucmuuzh6fvfsoonqp in 1ms
+Processed  10  repos in processRepo()
+getRepo time for did:plc:43bssld564esjbhwc3qqzbxv: 264ms
+Read CAR time for did:plc:43bssld564esjbhwc3qqzbxv: 178ms
+Verify repo time for did:plc:43bssld564esjbhwc3qqzbxv: 187ms
+Processed 3965 records for did:plc:43bssld564esjbhwc3qqzbxv in 36ms
+getRepo time for did:plc:k7ubqw25pdrsbdx2girloqxs: 13941ms
+Read CAR time for did:plc:k7ubqw25pdrsbdx2girloqxs: 9920ms
+Verify repo time for did:plc:k7ubqw25pdrsbdx2girloqxs: 3976ms
+Processed 41631 records for did:plc:k7ubqw25pdrsbdx2girloqxs in 118ms
+getRepo time for did:plc:es3xljgoujn3m3we25qn7txc: 1233ms
+Read CAR time for did:plc:es3xljgoujn3m3we25qn7txc: 141ms
+Verify repo time for did:plc:es3xljgoujn3m3we25qn7txc: 136ms
+Processed 3128 records for did:plc:es3xljgoujn3m3we25qn7txc in 13ms
+getRepo time for did:plc:hk47jonolbzsld7w7my27hkl: 145ms
+Read CAR time for did:plc:hk47jonolbzsld7w7my27hkl: 8ms
+Verify repo time for did:plc:hk47jonolbzsld7w7my27hkl: 6ms
+Processed 74 records for did:plc:hk47jonolbzsld7w7my27hkl in 0ms
+getRepo time for did:plc:i763oyyqqmpahwpcgpxxhrx3: 142ms
+Read CAR time for did:plc:i763oyyqqmpahwpcgpxxhrx3: 4ms
+Verify repo time for did:plc:i763oyyqqmpahwpcgpxxhrx3: 3ms
+Processed 10 records for did:plc:i763oyyqqmpahwpcgpxxhrx3 in 0ms
+getRepo time for did:plc:ypyqli7uhm7ybuunpwiei6nv: 154ms
+Read CAR time for did:plc:ypyqli7uhm7ybuunpwiei6nv: 12ms
+Verify repo time for did:plc:ypyqli7uhm7ybuunpwiei6nv: 11ms
+Processed 178 records for did:plc:ypyqli7uhm7ybuunpwiei6nv in 1ms
+getRepo time for did:plc:scdle3oulmn7vz66i2v5vhbr: 152ms
+Read CAR time for did:plc:scdle3oulmn7vz66i2v5vhbr: 16ms
+Verify repo time for did:plc:scdle3oulmn7vz66i2v5vhbr: 12ms
+Processed 137 records for did:plc:scdle3oulmn7vz66i2v5vhbr in 1ms
+getRepo time for did:plc:b5og5jprikvlkvydhrvzpc5d: 163ms
+Read CAR time for did:plc:b5og5jprikvlkvydhrvzpc5d: 69ms
+Verify repo time for did:plc:b5og5jprikvlkvydhrvzpc5d: 52ms
+Processed 1143 records for did:plc:b5og5jprikvlkvydhrvzpc5d in 4ms
+getRepo time for did:plc:wnxzs3oiacu3cpa26spchqqf: 297ms
+Read CAR time for did:plc:wnxzs3oiacu3cpa26spchqqf: 114ms
+Verify repo time for did:plc:wnxzs3oiacu3cpa26spchqqf: 75ms
+Processed 1564 records for did:plc:wnxzs3oiacu3cpa26spchqqf in 6ms
+getRepo time for did:plc:64wryzlmgayytf6s6gwaoywy: 160ms
+Read CAR time for did:plc:64wryzlmgayytf6s6gwaoywy: 41ms
+Verify repo time for did:plc:64wryzlmgayytf6s6gwaoywy: 34ms
+Processed 706 records for did:plc:64wryzlmgayytf6s6gwaoywy in 4ms
+Processed  20  repos in processRepo()
+getRepo time for did:plc:s5gh4domdysnrhm2mkrwfecd: 903ms
+Read CAR time for did:plc:s5gh4domdysnrhm2mkrwfecd: 1170ms
+Verify repo time for did:plc:s5gh4domdysnrhm2mkrwfecd: 1424ms
+Processed 33737 records for did:plc:s5gh4domdysnrhm2mkrwfecd in 112ms
+getRepo time for did:plc:mcn5lmfpbbiunmkmxppawuao: 178ms
+Read CAR time for did:plc:mcn5lmfpbbiunmkmxppawuao: 51ms
+Verify repo time for did:plc:mcn5lmfpbbiunmkmxppawuao: 45ms
+Processed 1105 records for did:plc:mcn5lmfpbbiunmkmxppawuao in 6ms
+getRepo time for did:plc:wxydhk4hys7vaytdpybnlbwz: 385ms
+Read CAR time for did:plc:wxydhk4hys7vaytdpybnlbwz: 418ms
+Verify repo time for did:plc:wxydhk4hys7vaytdpybnlbwz: 516ms
+Processed 12017 records for did:plc:wxydhk4hys7vaytdpybnlbwz in 39ms
+getRepo time for did:plc:nvc4t263o4mu24e5csdb5efo: 231ms
+Read CAR time for did:plc:nvc4t263o4mu24e5csdb5efo: 140ms
+Verify repo time for did:plc:nvc4t263o4mu24e5csdb5efo: 139ms
+Processed 3529 records for did:plc:nvc4t263o4mu24e5csdb5efo in 11ms
+getRepo time for did:plc:y767p6ievgizzcjuky4s2prr: 353ms
+Read CAR time for did:plc:y767p6ievgizzcjuky4s2prr: 398ms
+Verify repo time for did:plc:y767p6ievgizzcjuky4s2prr: 448ms
+Processed 10988 records for did:plc:y767p6ievgizzcjuky4s2prr in 35ms
+getRepo time for did:plc:lbxjnggr32bfcslnncnhvwru: 160ms
+Read CAR time for did:plc:lbxjnggr32bfcslnncnhvwru: 26ms
+Verify repo time for did:plc:lbxjnggr32bfcslnncnhvwru: 18ms
+Processed 246 records for did:plc:lbxjnggr32bfcslnncnhvwru in 1ms
+getRepo time for did:plc:astr6oa4htzkuwqpz266vl2c: 199ms
+Read CAR time for did:plc:astr6oa4htzkuwqpz266vl2c: 110ms
+Verify repo time for did:plc:astr6oa4htzkuwqpz266vl2c: 105ms
+Processed 2616 records for did:plc:astr6oa4htzkuwqpz266vl2c in 10ms
+getRepo time for did:plc:xdutqq5yeqsfj5anbxfoqcxt: 165ms
+Read CAR time for did:plc:xdutqq5yeqsfj5anbxfoqcxt: 46ms
+Verify repo time for did:plc:xdutqq5yeqsfj5anbxfoqcxt: 41ms
+Processed 1009 records for did:plc:xdutqq5yeqsfj5anbxfoqcxt in 6ms
+getRepo time for did:plc:ggss3ucd2xbtlfnq6oas2mrt: 289ms
+Read CAR time for did:plc:ggss3ucd2xbtlfnq6oas2mrt: 223ms
+Verify repo time for did:plc:ggss3ucd2xbtlfnq6oas2mrt: 229ms
+Processed 5245 records for did:plc:ggss3ucd2xbtlfnq6oas2mrt in 19ms
+getRepo time for did:plc:5glkr2agmuo6sjqkeryvcvg4: 360ms
+Read CAR time for did:plc:5glkr2agmuo6sjqkeryvcvg4: 376ms
+Verify repo time for did:plc:5glkr2agmuo6sjqkeryvcvg4: 423ms
+Processed 10658 records for did:plc:5glkr2agmuo6sjqkeryvcvg4 in 40ms
+Processed  30  repos in processRepo()
+getRepo time for did:plc:mpem54imud4dg5wnro5aagbt: 147ms
+Read CAR time for did:plc:mpem54imud4dg5wnro5aagbt: 4ms
+Verify repo time for did:plc:mpem54imud4dg5wnro5aagbt: 3ms
+Processed 7 records for did:plc:mpem54imud4dg5wnro5aagbt in 0ms
+getRepo time for did:plc:llhwpd7d5vtitjvjlixjnaxt: 155ms
+Read CAR time for did:plc:llhwpd7d5vtitjvjlixjnaxt: 33ms
+Verify repo time for did:plc:llhwpd7d5vtitjvjlixjnaxt: 25ms
+Processed 427 records for did:plc:llhwpd7d5vtitjvjlixjnaxt in 2ms
+getRepo time for did:plc:yl43fbklgkqbks56trwt6uqv: 145ms
+Read CAR time for did:plc:yl43fbklgkqbks56trwt6uqv: 14ms
+Verify repo time for did:plc:yl43fbklgkqbks56trwt6uqv: 12ms
+Processed 143 records for did:plc:yl43fbklgkqbks56trwt6uqv in 1ms
+getRepo time for did:plc:oocjsmur3itjclnqgfflkns7: 155ms
+Read CAR time for did:plc:oocjsmur3itjclnqgfflkns7: 19ms
+Verify repo time for did:plc:oocjsmur3itjclnqgfflkns7: 14ms
+Processed 149 records for did:plc:oocjsmur3itjclnqgfflkns7 in 1ms
+getRepo time for did:plc:2xdeg73lappfpgufblbhau35: 168ms
+Read CAR time for did:plc:2xdeg73lappfpgufblbhau35: 51ms
+Verify repo time for did:plc:2xdeg73lappfpgufblbhau35: 31ms
+Processed 650 records for did:plc:2xdeg73lappfpgufblbhau35 in 4ms
+getRepo time for did:plc:3fdnhemxrevki43fthievoc6: 160ms
+Read CAR time for did:plc:3fdnhemxrevki43fthievoc6: 22ms
+Verify repo time for did:plc:3fdnhemxrevki43fthievoc6: 16ms
+Processed 242 records for did:plc:3fdnhemxrevki43fthievoc6 in 1ms
+getRepo time for did:plc:3ys2pzxynozddi7mk34unayq: 146ms
+Read CAR time for did:plc:3ys2pzxynozddi7mk34unayq: 14ms
+Verify repo time for did:plc:3ys2pzxynozddi7mk34unayq: 9ms
+Processed 137 records for did:plc:3ys2pzxynozddi7mk34unayq in 1ms
+getRepo time for did:plc:3xo3lwnrrgcefeuhdpjlovrd: 169ms
+Read CAR time for did:plc:3xo3lwnrrgcefeuhdpjlovrd: 60ms
+Verify repo time for did:plc:3xo3lwnrrgcefeuhdpjlovrd: 42ms
+Processed 991 records for did:plc:3xo3lwnrrgcefeuhdpjlovrd in 3ms
+getRepo time for did:plc:lfefq5nxhalsy7wbnyflz7uk: 205ms
+Read CAR time for did:plc:lfefq5nxhalsy7wbnyflz7uk: 103ms
+Verify repo time for did:plc:lfefq5nxhalsy7wbnyflz7uk: 87ms
+Processed 2154 records for did:plc:lfefq5nxhalsy7wbnyflz7uk in 9ms
+getRepo time for did:plc:azk5p6es7epsbztfx6v4ohxs: 141ms
+Read CAR time for did:plc:azk5p6es7epsbztfx6v4ohxs: 4ms
+Verify repo time for did:plc:azk5p6es7epsbztfx6v4ohxs: 4ms
+Processed 55 records for did:plc:azk5p6es7epsbztfx6v4ohxs in 1ms
+Processed  40  repos in processRepo()
+getRepo time for did:plc:4zk62y66shpgvbvfvpwlrz3f: 143ms
+Read CAR time for did:plc:4zk62y66shpgvbvfvpwlrz3f: 11ms
+Verify repo time for did:plc:4zk62y66shpgvbvfvpwlrz3f: 10ms
+Processed 122 records for did:plc:4zk62y66shpgvbvfvpwlrz3f in 1ms
+getRepo time for did:plc:c6xb6wwptakp7gvokutgn5jx: 138ms
+Read CAR time for did:plc:c6xb6wwptakp7gvokutgn5jx: 1ms
+Verify repo time for did:plc:c6xb6wwptakp7gvokutgn5jx: 1ms
+Processed 5 records for did:plc:c6xb6wwptakp7gvokutgn5jx in 0ms
+getRepo time for did:plc:mmwvyacctu57y5irrdlo32t4: 159ms
+Read CAR time for did:plc:mmwvyacctu57y5irrdlo32t4: 30ms
+Verify repo time for did:plc:mmwvyacctu57y5irrdlo32t4: 21ms
+Processed 353 records for did:plc:mmwvyacctu57y5irrdlo32t4 in 2ms
+getRepo time for did:plc:24eepfcme344xsdjrxrz2bzn: 142ms
+Read CAR time for did:plc:24eepfcme344xsdjrxrz2bzn: 6ms
+Verify repo time for did:plc:24eepfcme344xsdjrxrz2bzn: 3ms
+Processed 29 records for did:plc:24eepfcme344xsdjrxrz2bzn in 0ms
+getRepo time for did:plc:qdeq3rvzfstn35yhqiafvxpc: 144ms
+Read CAR time for did:plc:qdeq3rvzfstn35yhqiafvxpc: 6ms
+Verify repo time for did:plc:qdeq3rvzfstn35yhqiafvxpc: 5ms
+Processed 50 records for did:plc:qdeq3rvzfstn35yhqiafvxpc in 0ms
+getRepo time for did:plc:k3ssaldboe2nqw6ptsnt3mwt: 139ms
+Read CAR time for did:plc:k3ssaldboe2nqw6ptsnt3mwt: 3ms
+Verify repo time for did:plc:k3ssaldboe2nqw6ptsnt3mwt: 4ms
+Processed 34 records for did:plc:k3ssaldboe2nqw6ptsnt3mwt in 0ms
+getRepo time for did:plc:dypupxec4d5bhnqnpw62cxwa: 138ms
+Read CAR time for did:plc:dypupxec4d5bhnqnpw62cxwa: 1ms
+Verify repo time for did:plc:dypupxec4d5bhnqnpw62cxwa: 0ms
+Processed 2 records for did:plc:dypupxec4d5bhnqnpw62cxwa in 0ms
+getRepo time for did:plc:tfwk43jrvxhkm3wap6ymssgh: 137ms
+Read CAR time for did:plc:tfwk43jrvxhkm3wap6ymssgh: 2ms
+Verify repo time for did:plc:tfwk43jrvxhkm3wap6ymssgh: 2ms
+Processed 14 records for did:plc:tfwk43jrvxhkm3wap6ymssgh in 0ms
+getRepo time for did:plc:ksqzgt2ne6dku3xxh3xh2e3a: 190ms
+Read CAR time for did:plc:ksqzgt2ne6dku3xxh3xh2e3a: 118ms
+Verify repo time for did:plc:ksqzgt2ne6dku3xxh3xh2e3a: 90ms
+Processed 1126 records for did:plc:ksqzgt2ne6dku3xxh3xh2e3a in 8ms
+getRepo time for did:plc:ydwciulkwkya2wdwqxbv646e: 142ms
+Read CAR time for did:plc:ydwciulkwkya2wdwqxbv646e: 7ms
+Verify repo time for did:plc:ydwciulkwkya2wdwqxbv646e: 2ms
+Processed 9 records for did:plc:ydwciulkwkya2wdwqxbv646e in 0ms
+Processed  50  repos in processRepo()
+getRepo time for did:plc:nkggso26bhwwmnrlih5ng5re: 149ms
+Read CAR time for did:plc:nkggso26bhwwmnrlih5ng5re: 7ms
+Verify repo time for did:plc:nkggso26bhwwmnrlih5ng5re: 3ms
+Processed 54 records for did:plc:nkggso26bhwwmnrlih5ng5re in 0ms
+getRepo time for did:plc:3q5xelgxuqe4z6izxzgjogow: 146ms
+Read CAR time for did:plc:3q5xelgxuqe4z6izxzgjogow: 8ms
+Verify repo time for did:plc:3q5xelgxuqe4z6izxzgjogow: 6ms
+Processed 114 records for did:plc:3q5xelgxuqe4z6izxzgjogow in 1ms
+getRepo time for did:plc:d6vrqcq7ezarjjbr7plsgpmw: 171ms
+Read CAR time for did:plc:d6vrqcq7ezarjjbr7plsgpmw: 1ms
+Verify repo time for did:plc:d6vrqcq7ezarjjbr7plsgpmw: 2ms
+Processed 11 records for did:plc:d6vrqcq7ezarjjbr7plsgpmw in 0ms
+getRepo time for did:plc:62glhj72tpytroi2svipdubh: 238ms
+Read CAR time for did:plc:62glhj72tpytroi2svipdubh: 159ms
+Verify repo time for did:plc:62glhj72tpytroi2svipdubh: 160ms
+Processed 3714 records for did:plc:62glhj72tpytroi2svipdubh in 20ms
+getRepo time for did:plc:kwjipywgm7dz6mgkifin7mhs: 140ms
+Read CAR time for did:plc:kwjipywgm7dz6mgkifin7mhs: 0ms
+Verify repo time for did:plc:kwjipywgm7dz6mgkifin7mhs: 0ms
+Processed 1 records for did:plc:kwjipywgm7dz6mgkifin7mhs in 0ms
+getRepo time for did:plc:ubqjk5kmnxs33hzldqkziyag: 139ms
+Read CAR time for did:plc:ubqjk5kmnxs33hzldqkziyag: 2ms
+Verify repo time for did:plc:ubqjk5kmnxs33hzldqkziyag: 2ms
+Processed 17 records for did:plc:ubqjk5kmnxs33hzldqkziyag in 0ms
+getRepo time for did:plc:ojgwn7cktch2cwltj2ujgc7o: 141ms
+Read CAR time for did:plc:ojgwn7cktch2cwltj2ujgc7o: 14ms
+Verify repo time for did:plc:ojgwn7cktch2cwltj2ujgc7o: 11ms
+Processed 170 records for did:plc:ojgwn7cktch2cwltj2ujgc7o in 1ms
+getRepo time for did:plc:lsbs7urbz5sicwcp2mzh64zf: 147ms
+Read CAR time for did:plc:lsbs7urbz5sicwcp2mzh64zf: 33ms
+Verify repo time for did:plc:lsbs7urbz5sicwcp2mzh64zf: 29ms
+Processed 571 records for did:plc:lsbs7urbz5sicwcp2mzh64zf in 1ms
+getRepo time for did:plc:w7cigxo5q5wwbev555mzy4bu: 516ms
+Read CAR time for did:plc:w7cigxo5q5wwbev555mzy4bu: 739ms
+Verify repo time for did:plc:w7cigxo5q5wwbev555mzy4bu: 884ms
+Processed 20515 records for did:plc:w7cigxo5q5wwbev555mzy4bu in 62ms
+getRepo time for did:plc:4qqizocrnriintskkh6trnzv: 3654ms
+Read CAR time for did:plc:4qqizocrnriintskkh6trnzv: 6177ms
+Verify repo time for did:plc:4qqizocrnriintskkh6trnzv: 8283ms
+Processed 170374 records for did:plc:4qqizocrnriintskkh6trnzv in 749ms
+Processed  60  repos in processRepo()
+getRepo time for did:plc:2lzahebnas6od6j6jfydwst7: 7746ms
+Read CAR time for did:plc:2lzahebnas6od6j6jfydwst7: 10580ms
+Verify repo time for did:plc:2lzahebnas6od6j6jfydwst7: 7292ms
+Processed 160512 records for did:plc:2lzahebnas6od6j6jfydwst7 in 688ms
+getRepo time for did:plc:3xmoxuheod2diavlgugwcnuu: 3273ms
+Read CAR time for did:plc:3xmoxuheod2diavlgugwcnuu: 3667ms
+Verify repo time for did:plc:3xmoxuheod2diavlgugwcnuu: 3005ms
+Processed 63598 records for did:plc:3xmoxuheod2diavlgugwcnuu in 228ms
+getRepo time for did:plc:4pxzo7tv3u7pu6dot5umuxyt: 3987ms
+Read CAR time for did:plc:4pxzo7tv3u7pu6dot5umuxyt: 7393ms
+Verify repo time for did:plc:4pxzo7tv3u7pu6dot5umuxyt: 4740ms
+Processed 106861 records for did:plc:4pxzo7tv3u7pu6dot5umuxyt in 437ms
+getRepo time for did:plc:6c7jijsbqdb5xue7txve77pb: 1634ms
+Read CAR time for did:plc:6c7jijsbqdb5xue7txve77pb: 635ms
+Verify repo time for did:plc:6c7jijsbqdb5xue7txve77pb: 712ms
+Processed 16471 records for did:plc:6c7jijsbqdb5xue7txve77pb in 68ms
+getRepo time for did:plc:buauewuqjtzyritkh5rmm2oq: 7623ms
+Read CAR time for did:plc:buauewuqjtzyritkh5rmm2oq: 14525ms
+Verify repo time for did:plc:buauewuqjtzyritkh5rmm2oq: 9201ms
+Processed 196243 records for did:plc:buauewuqjtzyritkh5rmm2oq in 998ms
+getRepo time for did:plc:cji6xm6ucnxxs3zkdoho5gta: 3494ms
+Read CAR time for did:plc:cji6xm6ucnxxs3zkdoho5gta: 4416ms
+Verify repo time for did:plc:cji6xm6ucnxxs3zkdoho5gta: 4460ms
+Processed 97350 records for did:plc:cji6xm6ucnxxs3zkdoho5gta in 335ms
+getRepo time for did:plc:bluftivdjfs2vog7d65mk2m7: 1674ms
+Read CAR time for did:plc:bluftivdjfs2vog7d65mk2m7: 686ms
+Verify repo time for did:plc:bluftivdjfs2vog7d65mk2m7: 766ms
+Processed 17481 records for did:plc:bluftivdjfs2vog7d65mk2m7 in 131ms
+getRepo time for did:plc:bsnnfhn6xxfoad4bunb5doue: 1563ms
+Read CAR time for did:plc:bsnnfhn6xxfoad4bunb5doue: 2475ms
+Verify repo time for did:plc:bsnnfhn6xxfoad4bunb5doue: 3211ms
+Processed 72057 records for did:plc:bsnnfhn6xxfoad4bunb5doue in 258ms
+getRepo time for did:plc:gm7skcfgfl6nsq3l7mp4xlrs: 300ms
+Read CAR time for did:plc:gm7skcfgfl6nsq3l7mp4xlrs: 250ms
+Verify repo time for did:plc:gm7skcfgfl6nsq3l7mp4xlrs: 280ms
+Processed 6314 records for did:plc:gm7skcfgfl6nsq3l7mp4xlrs in 24ms
+getRepo time for did:plc:ffqrmizoc5z6ly4vf3mhgwta: 3575ms
+Read CAR time for did:plc:ffqrmizoc5z6ly4vf3mhgwta: 5946ms
+Verify repo time for did:plc:ffqrmizoc5z6ly4vf3mhgwta: 4394ms
+Processed 97591 records for did:plc:ffqrmizoc5z6ly4vf3mhgwta in 414ms
